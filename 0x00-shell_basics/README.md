@@ -1,1 +1,1 @@
-This script display the contents list of your current directory
+This script Display current directory contents in a long format
